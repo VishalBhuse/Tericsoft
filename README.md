@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 
 
 ### Live Link : https://tericsoftassignment-eight.vercel.app
-### Database Link : https://terisoftbackend.onrender.com/employess
+### Database Link : https://terisoftbackend.onrender.com
