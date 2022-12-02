@@ -23,6 +23,8 @@ You may also see any lint errors in the console.
 - json-server (0.17.1)
 - react-redux (8.0.5)
 - redux-thunk (2.4.2)
+- render.com using for fake backend server api
+- Vercel For Deploying Project
 
 
 ### Live Link : https://tericsoftassignment-eight.vercel.app
